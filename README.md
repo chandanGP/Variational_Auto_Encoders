@@ -1,5 +1,5 @@
 # Variational Auto Encoders  
-In this repo I implemented Variational Auto encoder and one of it's varient Beta VAE  
+In this repo I implemented Variational Auto encoder and one of it's varient β-VAE  
   
 Refrence papers :  
   
